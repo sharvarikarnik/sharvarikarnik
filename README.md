@@ -90,7 +90,7 @@ I enjoy exploring new tools and technologies, optimizing workflows, and driving 
 # 🔗 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sharvarikarnik" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.linkedin.com/in/sharvarikarnik25" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 &nbsp;&nbsp;
 <a href="mailto:sharvari.karnik25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 &nbsp;&nbsp;
