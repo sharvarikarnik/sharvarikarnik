@@ -8,7 +8,7 @@
 
 <!-- Typing Animation Carousel for Roles -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Data+Engineer;Data+Analyst;Cloud+Data+Architect;ETL/ELT+Specialist;Analytics+%26+Insights+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Data+Engineer;Data+Analyst;Analytics+Engineer;ETL/ELT+Specialist;Analytics+%26+Insights+Enthusiast" />
 </p>
 
 ---
